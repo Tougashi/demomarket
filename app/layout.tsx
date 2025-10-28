@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "NadinSportwear - Jersey & Sportswear Terlengkap",
-  description: "Temukan koleksi jersey dan sportswear terbaru dari brand ternama seperti Nike, Adidas, Puma, dan lainnya. Gratis ongkir se-Indonesia!",
-  keywords: "jersey, sportswear, nike, adidas, puma, nadinsportwear, indonesia, baju olahraga",
+  description: "Temukan koleksi jersey dan sportswear terbaru di NadinSportwear. Gratis ongkir se-Indonesia!",
+  keywords: "jersey, sportswear, nadinsportwear, indonesia, baju olahraga, brand lokal",
   authors: [{ name: "NadinSportwear" }],
   creator: "NadinSportwear",
   publisher: "NadinSportwear",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     url: "https://nadinsportwear.com",
     siteName: "NadinSportwear",
     title: "NadinSportwear - Jersey & Sportswear Terlengkap",
-    description: "Temukan koleksi jersey dan sportswear terbaru dari brand ternama seperti Nike, Adidas, Puma, dan lainnya. Gratis ongkir se-Indonesia!",
+    description: "Temukan koleksi jersey dan sportswear terbaru di NadinSportwear. Gratis ongkir se-Indonesia!",
     images: [
       {
         url: "/logo2.png",
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "NadinSportwear - Jersey & Sportswear Terlengkap",
-    description: "Temukan koleksi jersey dan sportswear terbaru dari brand ternama seperti Nike, Adidas, Puma, dan lainnya. Gratis ongkir se-Indonesia!",
+    description: "Temukan koleksi jersey dan sportswear terbaru di NadinSportwear. Gratis ongkir se-Indonesia!",
     images: ["/logo2.png"],
   },
   icons: {
