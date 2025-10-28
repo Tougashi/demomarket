@@ -29,7 +29,7 @@ export default function Header() {
         <div className="flex items-center justify-between py-3">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <h1 className="text-xl font-bold">NadinSportwear</h1>
+            <img src="/logo.png" alt="NadinSportwear" className="h-8 w-auto" />
           </div>
 
           {/* Desktop Navigation */}
